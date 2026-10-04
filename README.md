@@ -17,6 +17,9 @@ This project bridges the gap between predictive modeling and commercial executio
 
 ---
 
+![Model Evaluation Metrics](assets/model_evaluation.png)
+
+---
 ## 🏗️ System Architecture & Workflow
 
 ```text
